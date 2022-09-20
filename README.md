@@ -6,5 +6,5 @@ TODO:
 
 - [x] Perceptual Hash (phash)
 - [ ] Average Hash
-- [ ] Difference Hash
+- [x] Difference Hash
 - [ ] correct differences with imagehash (dithering)
