@@ -1,1 +1,1 @@
-from .imagehash_jax import *
+from imagehash_jax.imagehash_jax import *
